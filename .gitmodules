@@ -1,0 +1,3 @@
+[submodule "github-meta-cird-routes"]
+	path = github-meta-cird-routes
+	url = https://github.com/romol0s/github-meta-cird-routes.git
